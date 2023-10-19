@@ -1,0 +1,61 @@
+pre,
+:not(pre) > code {
+  border: 1px solid black;
+  border-radius: 0.25rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+pre {
+  overflow-x: auto;
+}
+
+blockquote {
+  border-left: 0.25rem solid;
+  padding-left: 0.5rem;
+  border-color: gray;
+}
+
+table {
+  border: 0.5px solid;
+  border-collapse: separate;
+  overflow: hidden;
+  border-spacing: 0;
+  border-radius: 0.25rem;
+  text-align: center;
+  border: 0.5px solid;
+
+  th,
+  td {
+    padding: 0.6em 3em;
+    vertical-align: middle;
+    border-right: 0.5px solid;
+    border-bottom: 0.5px solid;
+
+    &:last-child {
+      border-right: none;
+    }
+  }
+
+  thead {
+    th {
+    }
+  }
+
+  tbody {
+    tr {
+      &:last-child {
+        th,
+        td {
+          border-bottom: none;
+        }
+      }
+    }
+  }
+}
+
+td,
+th {
+  border: 0.5px solid;
+  padding: 0.2rem;
+}
