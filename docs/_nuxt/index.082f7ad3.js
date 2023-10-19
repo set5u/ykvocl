@@ -1,0 +1,1 @@
+import{c as e,o}from"./entry.41ef16ad.js";import{_ as c}from"./_plugin-vue_export-helper.c27b6911.js";const t={class:"h-full"};function n(s,a){return o(),e("div",t,"Main page")}const r={},f=c(r,[["render",n]]);export{f as default};
