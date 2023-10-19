@@ -38,7 +38,7 @@ $headings: "h1", "h2", "h3", "h4", "h5", "h6";
 }
 
 .md :deep(code) {
-  border: 1px solid black;
+  border: 1px solid;
   border-radius: 0.25rem;
   padding-left: 0.25rem;
   padding-right: 0.25rem;
@@ -56,7 +56,7 @@ $headings: "h1", "h2", "h3", "h4", "h5", "h6";
 
 .md :deep(td),
 .md :deep(th) {
-  border: 1px black solid;
+  border: 1px solid;
   padding: 0.2rem;
 }
 </style>

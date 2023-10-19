@@ -1,3 +1,5 @@
+import theme from "./assets/theme";
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
@@ -6,7 +8,7 @@ export default defineNuxtConfig({
       extends: "@tsconfig/strictest/tsconfig.json",
     },
   },
-  css: ["~/assets/css/main.css"],
+  css: ["assets/css/main.css"],
   postcss: {
     plugins: {
       tailwindcss: {},
@@ -27,4 +29,8 @@ export default defineNuxtConfig({
       format: "es",
     },
   },
+  modules: [
+    ["halcyon-vue-nuxt", theme],
+    ["unplugin-icons/nuxt", { autoInstall: true }],
+  ],
 });

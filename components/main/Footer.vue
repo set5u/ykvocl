@@ -1,10 +1,10 @@
 <template lang="pug">
 div
-  hr.py-1
-  .flex.h-8.flex-row.flex-nowrap.items-center.overflow-x-auto.overflow-y-hidden
-    .ml-auto.flex-none.px-2
-      PartsMarkdown.inline-block(
-        md="**YukiVocaLearn** @ 2023 ajiken4610 licensed under the `MIT LICENSE`. For license information, please see"
-      )
+  HDivider
+  .flex.flex-row.items-center.py-2
+    .ml-auto.px-2
+      span 
+      strong YukiVocaLearn
+      | @2023-ajiken4610 licensed under the `MIT LICENSE`. For license information, please see
       NuxtLink.pl-1(to="/license") /license
 </template>

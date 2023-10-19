@@ -6,7 +6,7 @@ div
 
 <script setup lang="ts">
 import StackTrace from "stacktrace-js";
-
+import "assets/css/dark.css";
 const reloadIfUserRequestIt = (message: string) => {
   const confirmed =
     confirm(`A fatal error may have occurred within the application.

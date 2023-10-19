@@ -9,9 +9,9 @@ div
     :key="libName"
   )
     .text-4xl
-      code.mr-2.rounded-lg.border-2.border-solid.border-black {{ libName }}
+      code.mr-2.rounded-lg.border-2.border-solid {{ libName }}
       | published by
-      code.rounded-lg.border-2.border-solid.border-black(
+      code.rounded-lg.border-2.border-solid(
         :class="{ 'text-base': !publisher }"
       ) {{  publisher || "[[ The author's name couldn't be automatically retrieved. Please refer to the license below. ]]"  }}
     PartsMarkdown(:md="licenseText")

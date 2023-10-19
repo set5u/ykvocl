@@ -3,6 +3,7 @@ div
   MainHeader(ref="headerElementRef")
   Main.main-height
   MainFooter(ref="footerElementRef")
+  MainDrawer
 </template>
 
 <script setup lang="ts">
@@ -10,17 +11,18 @@ const headerElementRef = ref<ComponentPublicInstance>();
 const footerElementRef = ref<ComponentPublicInstance>();
 const headerElementHeight = ref(0);
 const footerElementHeight = ref(0);
-
-onMounted(() => {
+const updateHeights = () => {
   headerElementRef.value &&
     (headerElementHeight.value = headerElementRef.value.$el.offsetHeight);
   footerElementRef.value &&
     (footerElementHeight.value = footerElementRef.value.$el.offsetHeight);
-});
+  windowHeight.value = window.innerHeight;
+};
+onMounted(updateHeights);
 
 const windowHeight = ref(window.innerHeight);
 const onResize = () => {
-  windowHeight.value = window.innerHeight;
+  updateHeights();
 };
 addEventListener("resize", onResize);
 onUnmounted(() => {
@@ -30,9 +32,13 @@ onUnmounted(() => {
 const mainHeight = computed(
   () =>
     windowHeight.value -
-    (headerElementHeight.value + footerElementHeight.value) +
+    (headerElementHeight.value + footerElementHeight.value) -
+    1 +
     "px",
 );
+
+const drawerOpen = ref(false);
+provide("drawerOpen", drawerOpen);
 </script>
 
 <style scoped lang="scss">
