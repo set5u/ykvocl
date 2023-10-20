@@ -11,7 +11,7 @@
 </template>
 
 <script setup lang="ts">
-import highlightcss from "highlight.js/styles/github.min.css?raw";
+import highlightcss from "highlight.js/styles/github-dark.min.css?raw";
 import katexcss from "katex/dist/katex.min.css?raw";
 import mdcss from "assets/css/md.min.css?raw";
 const props = withDefaults(defineProps<{ mdpug: string }>(), {

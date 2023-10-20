@@ -6,7 +6,7 @@ import extendedTables from "marked-extended-tables";
 
 import hljs from "highlight.js";
 import { markedHighlight } from "marked-highlight";
-import "highlight.js/styles/github.css";
+import "highlight.js/styles/github-dark.min.css";
 
 import markedKatex from "marked-katex-extension";
 import "katex/dist/katex.min.css";
