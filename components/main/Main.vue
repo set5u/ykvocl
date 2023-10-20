@@ -1,5 +1,5 @@
 <template lang="pug">
-.overflow-y-auto(v-auto-animate)
+div(v-auto-animate)
   NuxtPage.p-4.max-w-screen-md.mx-auto
 </template>
 

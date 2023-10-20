@@ -1,6 +1,6 @@
 <template lang="pug">
 div
-  HDivider
+  hr
   .flex.flex-row.items-center.py-2
     .ml-auto.px-2
       span 

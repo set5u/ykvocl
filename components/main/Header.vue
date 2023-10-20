@@ -1,26 +1,17 @@
 <template lang="pug">
 div
-  HTopAppBar(title="YukiVocaLearn", kind="small")
-    template(#navigation-icon)
-      HIconButton(label="Menu", @click="drawerOpen = true")
-        IconMenu
-    template(#trailing)
+  UiTopAppBar(content-selector="#main")
+    div YukiVocaLearn
+    template(#nav-icon="{ navIconClass }")
+      UiIconButton#drawer-opener(
+        :class="navIconClass",
+        icon="menu",
+        @click="drawerOpen=true"
+      )
+    template(#toolbar="{ toolbarItemClass }")
       NuxtLink(to="/settings")
-        HIconButton(label="Settings")
-          IconSettings
-      //- HMenu
-      //-   template(#button)
-      //-     div
-      //-       HIconButton(label="More")
-      //-         IconMoreVert
-      //-   template(#content)
-      //-     HMenuButton(label="Nothing")
-  HDivider
+        UiIconButton(:class="toolbarItemClass", icon="settings")
 </template>
-
 <script setup lang="ts">
-import IconMenu from "~icons/mdi/menu";
-import IconSettings from "~icons/mdi/settings";
-// import IconMoreVert from "~icons/mdi/moreVert"
-const drawerOpen = useState("drawerOpen", () => false);
+const drawerOpen = useState("drawerOpen", () => false)
 </script>
