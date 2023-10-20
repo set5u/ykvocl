@@ -1,6 +1,6 @@
 <template lang="pug">
-.h-full
-  HButton(kind="filled", content="HELLOWORLD!") 
+div
+  HButton(kind="elevated", content="HELLOWORLD!") 
     Heart
 </template>
 

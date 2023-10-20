@@ -32,5 +32,6 @@ export default defineNuxtConfig({
   modules: [
     ["halcyon-vue-nuxt", theme],
     ["unplugin-icons/nuxt", { autoInstall: true }],
+    "@formkit/auto-animate/nuxt",
   ],
 });

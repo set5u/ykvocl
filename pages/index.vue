@@ -7,20 +7,21 @@ div
 </template>
 
 <script setup lang="ts">
+import { useWindowSize } from "@vueuse/core";
 const headerElementRef = ref<ComponentPublicInstance>();
 const footerElementRef = ref<ComponentPublicInstance>();
+const { height: windowHeight } = useWindowSize();
 const headerElementHeight = ref(0);
 const footerElementHeight = ref(0);
+
 const updateHeights = () => {
   headerElementRef.value &&
     (headerElementHeight.value = headerElementRef.value.$el.offsetHeight);
   footerElementRef.value &&
     (footerElementHeight.value = footerElementRef.value.$el.offsetHeight);
-  windowHeight.value = window.innerHeight;
 };
 onMounted(updateHeights);
 
-const windowHeight = ref(window.innerHeight);
 const onResize = () => {
   updateHeights();
 };
