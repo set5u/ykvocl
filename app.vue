@@ -44,7 +44,8 @@ body {
   background-color: var(--mdc-theme-background);
 }
 
-* {
+:not(.md) *,
+:not(.mdpug) * {
   color: var(--mdc-theme-on-surface) !important;
 }
 
