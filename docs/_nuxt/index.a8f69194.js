@@ -1,1 +1,0 @@
-import{o as e,c as t,a as o}from"./entry.f50eac28.js";import{_ as c}from"./_plugin-vue_export-helper.c27b6911.js";const s={class:"table h-[70vh]"},a=o("div",{class:"text-4xl text-center table-cell align-middle"},"Welcome to Yuki Voca Learn",-1),n=[a];function r(i,_){return e(),t("div",s,n)}const l={},x=c(l,[["render",r]]);export{x as default};

@@ -44,7 +44,7 @@ body {
   background-color: var(--mdc-theme-background);
 }
 
-:not(.md *, .mdpug *) {
+:where(:not(.md *, .mdpug *)) {
   color: var(--mdc-theme-on-surface) !important;
 }
 
