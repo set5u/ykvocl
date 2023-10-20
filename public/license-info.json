@@ -39,19 +39,6 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@ampproject\\remapping",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@ampproject\\remapping\\LICENSE"
   },
-  "@antfu/install-pkg@0.1.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/antfu/install-pkg",
-    "publisher": "Anthony Fu",
-    "email": "anthonyfu117@hotmail.com",
-    "name": "@antfu/install-pkg",
-    "version": "0.1.1",
-    "description": "Install package programmatically.",
-    "copyright": "Copyright (c) 2021 Anthony Fu <https://github.com/antfu>",
-    "licenseText": "MIT License\n\nCopyright (c) 2021 Anthony Fu <https://github.com/antfu>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@antfu\\install-pkg",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@antfu\\install-pkg\\LICENSE"
-  },
   "@antfu/utils@0.7.6": {
     "licenses": "MIT",
     "repository": "https://github.com/antfu/utils",
@@ -614,54 +601,6 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@fastify\\busboy",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@fastify\\busboy\\LICENSE"
   },
-  "@floating-ui/core@1.5.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/floating-ui/floating-ui",
-    "publisher": "atomiks",
-    "name": "@floating-ui/core",
-    "version": "1.5.0",
-    "description": "Positioning library for floating elements: tooltips, popovers, dropdowns, and more",
-    "copyright": "Copyright (c) 2021-present Floating UI contributors",
-    "licenseText": "MIT License\n\nCopyright (c) 2021-present Floating UI contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@floating-ui\\core",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@floating-ui\\core\\LICENSE"
-  },
-  "@floating-ui/dom@1.5.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/floating-ui/floating-ui",
-    "publisher": "atomiks",
-    "name": "@floating-ui/dom",
-    "version": "1.5.3",
-    "description": "Floating UI for the web",
-    "copyright": "Copyright (c) 2021-present Floating UI contributors",
-    "licenseText": "MIT License\n\nCopyright (c) 2021-present Floating UI contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@floating-ui\\dom",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@floating-ui\\dom\\LICENSE"
-  },
-  "@floating-ui/utils@0.1.6": {
-    "licenses": "MIT",
-    "repository": "https://github.com/floating-ui/floating-ui",
-    "publisher": "atomiks",
-    "name": "@floating-ui/utils",
-    "version": "0.1.6",
-    "description": "Utilities for Floating UI",
-    "copyright": "Copyright (c) 2021-present Floating UI contributors",
-    "licenseText": "MIT License\n\nCopyright (c) 2021-present Floating UI contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@floating-ui\\utils",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@floating-ui\\utils\\LICENSE"
-  },
-  "@floating-ui/vue@1.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/floating-ui/floating-ui",
-    "publisher": "lozinsky",
-    "name": "@floating-ui/vue",
-    "version": "1.0.2",
-    "description": "Floating UI for Vue",
-    "copyright": "Copyright (c) 2021 Floating UI contributors",
-    "licenseText": "MIT License\n\nCopyright (c) 2021 Floating UI contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@floating-ui\\vue",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@floating-ui\\vue\\LICENSE"
-  },
   "@formkit/auto-animate@0.8.0": {
     "licenses": "MIT",
     "repository": "https://github.com/formkit/auto-animate",
@@ -674,17 +613,6 @@
     "licenseText": "Copyright 2022 FormKit Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@formkit\\auto-animate",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@formkit\\auto-animate\\LICENSE"
-  },
-  "@headlessui/vue@1.7.16": {
-    "licenses": "MIT",
-    "repository": "https://github.com/tailwindlabs/headlessui",
-    "name": "@headlessui/vue",
-    "version": "1.7.16",
-    "description": "A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate beautifully with Tailwind CSS.",
-    "copyright": "",
-    "licenseText": "<h3 align=\"center\">\n  @headlessui/vue\n</h3>\n\n<p align=\"center\">\n  A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate\n  beautifully with Tailwind CSS.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/package/@headlessui/vue\"><img src=\"https://img.shields.io/npm/dt/@headlessui/vue.svg\" alt=\"Total Downloads\"></a>\n  <a href=\"https://github.com/tailwindlabs/headlessui/releases\"><img src=\"https://img.shields.io/npm/v/@headlessui/vue.svg\" alt=\"Latest Release\"></a>\n  <a href=\"https://github.com/tailwindlabs/headlessui/blob/main/LICENSE\"><img src=\"https://img.shields.io/npm/l/@headlessui/vue.svg\" alt=\"License\"></a>\n</p>\n\n## Installation\n\nPlease note that **this library only supports Vue 3**.\n\n```sh\nnpm install @headlessui/vue\n```\n\n## Documentation\n\nFor full documentation, visit [headlessui.dev](https://headlessui.dev/vue/menu).\n\n## Community\n\nFor help, discussion about best practices, or any other conversation that would benefit from being searchable:\n\n[Discuss Headless UI on GitHub](https://github.com/tailwindlabs/headlessui/discussions)\n\nFor casual chit-chat with others using the library:\n\n[Join the Tailwind CSS Discord Server](https://discord.gg/7NF8GNe)",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@headlessui\\vue",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@headlessui\\vue\\README.md"
   },
   "@humanwhocodes/config-array@0.11.12": {
     "licenses": "Apache-2.0",
@@ -721,40 +649,6 @@
     "licenseText": "BSD 3-Clause License\n\nCopyright (c) 2019, Human Who Codes\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n* Redistributions of source code must retain the above copyright notice, this\n  list of conditions and the following disclaimer.\n\n* Redistributions in binary form must reproduce the above copyright notice,\n  this list of conditions and the following disclaimer in the documentation\n  and/or other materials provided with the distribution.\n\n* Neither the name of the copyright holder nor the names of its\n  contributors may be used to endorse or promote products derived from\n  this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@humanwhocodes\\object-schema",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@humanwhocodes\\object-schema\\LICENSE"
-  },
-  "@iconify-json/mdi@1.1.54": {
-    "licenses": "Apache-2.0",
-    "name": "@iconify-json/mdi",
-    "version": "1.1.54",
-    "description": "Material Design Icons icon set in Iconify JSON format",
-    "copyright": "",
-    "licenseText": "# Material Design Icons\n\nThis package contains icon data for Material Design Icons icon set.\n\nFiles:\n\n-   Icon data is stored in `icons.json` in `IconifyJSON` format. See [IconifyJSON documentation](https://iconify.design/docs/types/iconify-json.html).\n-   Icon set information is stored in `info.json` in `IconifyInfo` format. See [IconifyInfo documentation](https://iconify.design/docs/types/iconify-info.html).\n\n## Installation\n\n```bash\nnpm install @iconify-json/mdi --save-dev\n```\n\n## Usage\n\nIcon data can be used with many tools and components, see [Iconify documentation](https://iconify.design/docs/usage/).\n\nTo convert to SVG, you can use [Iconify Utils](https://iconify.design/docs/libraries/utils/examples/export-svgs-from-icon-set.html) for basic usage or [Iconify Tools](https://iconify.design/docs/libraries/tools/).",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@iconify-json\\mdi",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@iconify-json\\mdi\\README.md"
-  },
-  "@iconify/types@2.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/iconify/iconify",
-    "publisher": "Vjacheslav Trushkin",
-    "name": "@iconify/types",
-    "version": "2.0.0",
-    "description": "Types for Iconify data",
-    "copyright": "Copyright (c) 2021 - 2022 Vjacheslav Trushkin / Iconify OÜ",
-    "licenseText": "MIT License\n\nCopyright (c) 2021 - 2022 Vjacheslav Trushkin / Iconify OÜ\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@iconify\\types",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@iconify\\types\\license.txt"
-  },
-  "@iconify/utils@2.1.11": {
-    "licenses": "MIT",
-    "repository": "https://github.com/iconify/iconify",
-    "publisher": "Vjacheslav Trushkin",
-    "name": "@iconify/utils",
-    "version": "2.1.11",
-    "description": "Common functions for working with Iconify icon sets used by various packages.",
-    "copyright": "Copyright (c) 2021-PRESENT Vjacheslav Trushkin",
-    "licenseText": "MIT License\n\nCopyright (c) 2021-PRESENT Vjacheslav Trushkin\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@iconify\\utils",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@iconify\\utils\\license.txt"
   },
   "@ioredis/commands@1.2.0": {
     "licenses": "MIT",
@@ -898,6 +792,556 @@
     "licenseText": "Copyright (c), Mapbox\n\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n    * Redistributions of source code must retain the above copyright notice,\n      this list of conditions and the following disclaimer.\n    * Redistributions in binary form must reproduce the above copyright notice,\n      this list of conditions and the following disclaimer in the documentation\n      and/or other materials provided with the distribution.\n    * Neither the name of node-pre-gyp nor the names of its contributors\n      may be used to endorse or promote products derived from this software\n      without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS\n\"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\nA PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR\nCONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,\nEXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,\nPROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR\nPROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF\nLIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING\nNEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@mapbox\\node-pre-gyp",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@mapbox\\node-pre-gyp\\LICENSE"
+  },
+  "@material/animation@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/animation",
+    "version": "14.0.0",
+    "description": "Animation Variables and Mixins used by Material Components for the web",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\animation",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\animation\\LICENSE"
+  },
+  "@material/auto-init@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/auto-init",
+    "version": "14.0.0",
+    "description": "Declarative, easy-to-use auto-initialization for Material Components for the web",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\auto-init",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\auto-init\\LICENSE"
+  },
+  "@material/banner@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/banner",
+    "version": "14.0.0",
+    "description": "The Material Components Web banner component.",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\banner",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\banner\\LICENSE"
+  },
+  "@material/base@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/base",
+    "version": "14.0.0",
+    "description": "The set of base classes for Material Components for the web",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\base",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\base\\LICENSE"
+  },
+  "@material/button@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/button",
+    "version": "14.0.0",
+    "description": "The Material Components for the web button component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\button",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\button\\LICENSE"
+  },
+  "@material/card@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/card",
+    "version": "14.0.0",
+    "description": "The Material Components for the web card component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\card",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\card\\LICENSE"
+  },
+  "@material/checkbox@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/checkbox",
+    "version": "14.0.0",
+    "description": "The Material Components for the web checkbox component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\checkbox",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\checkbox\\LICENSE"
+  },
+  "@material/chips@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/chips",
+    "version": "14.0.0",
+    "description": "The Material Components for the Web chips component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\chips",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\chips\\LICENSE"
+  },
+  "@material/circular-progress@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/circular-progress",
+    "version": "14.0.0",
+    "description": "The Material Components for the web circular progress component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\circular-progress",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\circular-progress\\LICENSE"
+  },
+  "@material/data-table@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/data-table",
+    "version": "14.0.0",
+    "description": "The Material Components Web data table component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\data-table",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\data-table\\LICENSE"
+  },
+  "@material/density@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/density",
+    "version": "14.0.0",
+    "description": "Density utilities for Material Components for the web",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\density",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\density\\LICENSE"
+  },
+  "@material/dialog@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/dialog",
+    "version": "14.0.0",
+    "description": "The Material Components Web dialog component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\dialog",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\dialog\\LICENSE"
+  },
+  "@material/dom@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/dom",
+    "version": "14.0.0",
+    "description": "DOM manipulation utilities for Material Components for the web",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\dom",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\dom\\LICENSE"
+  },
+  "@material/drawer@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/drawer",
+    "version": "14.0.0",
+    "description": "The Material Components Web drawer component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\drawer",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\drawer\\LICENSE"
+  },
+  "@material/elevation@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/elevation",
+    "version": "14.0.0",
+    "description": "Material Components for the web mixins + CSS Classes for Material Design elevation",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\elevation",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\elevation\\LICENSE"
+  },
+  "@material/fab@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/fab",
+    "version": "14.0.0",
+    "description": "The Material Components for the web floating action button component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\fab",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\fab\\LICENSE"
+  },
+  "@material/feature-targeting@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/feature-targeting",
+    "version": "14.0.0",
+    "description": "Material Components for the web Feature Targeting Scss helpers",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\feature-targeting",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\feature-targeting\\LICENSE"
+  },
+  "@material/floating-label@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/floating-label",
+    "version": "14.0.0",
+    "description": "The Material Components for the web floating-label component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\floating-label",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\floating-label\\LICENSE"
+  },
+  "@material/focus-ring@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/focus-ring",
+    "version": "14.0.0",
+    "description": "The Material Components Web focus ring utilities",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\focus-ring",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\focus-ring\\LICENSE"
+  },
+  "@material/form-field@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/form-field",
+    "version": "14.0.0",
+    "description": "Material Components for the web wrapper for laying out form fields and labels next to one another",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\form-field",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\form-field\\LICENSE"
+  },
+  "@material/icon-button@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/icon-button",
+    "version": "14.0.0",
+    "description": "The Material Components for the web icon button component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\icon-button",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\icon-button\\LICENSE"
+  },
+  "@material/image-list@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/image-list",
+    "version": "14.0.0",
+    "description": "The Material Components for the web image list component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\image-list",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\image-list\\LICENSE"
+  },
+  "@material/layout-grid@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/layout-grid",
+    "version": "14.0.0",
+    "description": "The Material Components for the web layout grid component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\layout-grid",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\layout-grid\\LICENSE"
+  },
+  "@material/line-ripple@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/line-ripple",
+    "version": "14.0.0",
+    "description": "The Material Components for the web line-ripple component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\line-ripple",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\line-ripple\\LICENSE"
+  },
+  "@material/linear-progress@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/linear-progress",
+    "version": "14.0.0",
+    "description": "The Material Components for the web linear progress indicator component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\linear-progress",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\linear-progress\\LICENSE"
+  },
+  "@material/list@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/list",
+    "version": "14.0.0",
+    "description": "The Material Components for the web list component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\list",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\list\\LICENSE"
+  },
+  "@material/menu-surface@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/menu-surface",
+    "version": "14.0.0",
+    "description": "The Material Components for the web menu surface component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\menu-surface",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\menu-surface\\LICENSE"
+  },
+  "@material/menu@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/menu",
+    "version": "14.0.0",
+    "description": "The Material Components for the web menu component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\menu",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\menu\\LICENSE"
+  },
+  "@material/notched-outline@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/notched-outline",
+    "version": "14.0.0",
+    "description": "The Material Components for the web notched-outline component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\notched-outline",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\notched-outline\\LICENSE"
+  },
+  "@material/progress-indicator@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/progress-indicator",
+    "version": "14.0.0",
+    "description": "The Material Components for the web interface for Progress Indicators",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\progress-indicator",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\progress-indicator\\LICENSE"
+  },
+  "@material/radio@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/radio",
+    "version": "14.0.0",
+    "description": "The Material Components for the web radio component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\radio",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\radio\\LICENSE"
+  },
+  "@material/ripple@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/ripple",
+    "version": "14.0.0",
+    "description": "The Material Components for the web Ink Ripple effect for web element interactions",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\ripple",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\ripple\\LICENSE"
+  },
+  "@material/rtl@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/rtl",
+    "version": "14.0.0",
+    "description": "Material Components for the web RTL Scss helpers",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\rtl",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\rtl\\LICENSE"
+  },
+  "@material/segmented-button@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/segmented-button",
+    "version": "14.0.0",
+    "description": "The Material Components for the web segmented button component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\segmented-button",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\segmented-button\\LICENSE"
+  },
+  "@material/select@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/select",
+    "version": "14.0.0",
+    "description": "The Material Components web select (text field drop-down) component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\select",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\select\\LICENSE"
+  },
+  "@material/shape@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/shape",
+    "version": "14.0.0",
+    "description": "Shape utilities for Material Components for the web",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\shape",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\shape\\LICENSE"
+  },
+  "@material/slider@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/slider",
+    "version": "14.0.0",
+    "description": "The Material Components for the web slider component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\slider",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\slider\\LICENSE"
+  },
+  "@material/snackbar@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/snackbar",
+    "version": "14.0.0",
+    "description": "The Material Components for the web snackbar component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\snackbar",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\snackbar\\LICENSE"
+  },
+  "@material/switch@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/switch",
+    "version": "14.0.0",
+    "description": "The Material Components for the web switch component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\switch",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\switch\\LICENSE"
+  },
+  "@material/tab-bar@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/tab-bar",
+    "version": "14.0.0",
+    "description": "The Material Components for the web tab bar component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tab-bar",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tab-bar\\LICENSE"
+  },
+  "@material/tab-indicator@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/tab-indicator",
+    "version": "14.0.0",
+    "description": "The Material Components for the web tab indicator component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tab-indicator",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tab-indicator\\LICENSE"
+  },
+  "@material/tab-scroller@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/tab-scroller",
+    "version": "14.0.0",
+    "description": "The Material Components for the web tab scroller component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tab-scroller",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tab-scroller\\LICENSE"
+  },
+  "@material/tab@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/tab",
+    "version": "14.0.0",
+    "description": "The Material Components for the web tab component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tab",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tab\\LICENSE"
+  },
+  "@material/textfield@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/textfield",
+    "version": "14.0.0",
+    "description": "The Material Components for the web text field component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\textfield",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\textfield\\LICENSE"
+  },
+  "@material/theme@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/theme",
+    "version": "14.0.0",
+    "description": "The Material Components for the web theming system",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\theme",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\theme\\LICENSE"
+  },
+  "@material/tokens@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/tokens",
+    "version": "14.0.0",
+    "description": "Material Components for the web mixins for Material Design tokens",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tokens",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tokens\\LICENSE"
+  },
+  "@material/tooltip@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/tooltip",
+    "version": "14.0.0",
+    "description": "The Material Components Web tooltip component.",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tooltip",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\tooltip\\LICENSE"
+  },
+  "@material/top-app-bar@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/top-app-bar",
+    "version": "14.0.0",
+    "description": "The Material Components for the web top app bar component",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\top-app-bar",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\top-app-bar\\LICENSE"
+  },
+  "@material/touch-target@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/touch-target",
+    "version": "14.0.0",
+    "description": "Touch target mixins and variables for Material Components for the web",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\touch-target",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\touch-target\\LICENSE"
+  },
+  "@material/typography@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "@material/typography",
+    "version": "14.0.0",
+    "description": "Typography classes, mixins, and variables for Material Components for the web",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\typography",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@material\\typography\\LICENSE"
   },
   "@netlify/functions@2.3.0": {
     "licenses": "MIT",
@@ -1461,6 +1905,17 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@tufjs\\models",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@tufjs\\models\\LICENSE"
   },
+  "@types/diff@5.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "name": "@types/diff",
+    "version": "5.0.7",
+    "description": "TypeScript definitions for diff",
+    "copyright": "",
+    "licenseText": "MIT License\n\n    Copyright (c) Microsoft Corporation.\n\n    Permission is hereby granted, free of charge, to any person obtaining a copy\n    of this software and associated documentation files (the \"Software\"), to deal\n    in the Software without restriction, including without limitation the rights\n    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n    copies of the Software, and to permit persons to whom the Software is\n    furnished to do so, subject to the following conditions:\n\n    The above copyright notice and this permission notice shall be included in all\n    copies or substantial portions of the Software.\n\n    THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n    SOFTWARE",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@types\\diff",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@types\\diff\\LICENSE"
+  },
   "@types/dompurify@3.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
@@ -2006,19 +2461,6 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@vue\\shared",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@vue\\shared\\LICENSE"
   },
-  "@vueuse/components@10.5.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/vueuse/vueuse",
-    "publisher": "Jacob Clevenger",
-    "email": "https://github.com/wheatjs",
-    "name": "@vueuse/components",
-    "version": "10.5.0",
-    "description": "Renderless components for VueUse",
-    "copyright": "Copyright (c) 2019-PRESENT Anthony Fu<https://github.com/antfu>",
-    "licenseText": "MIT License\n\nCopyright (c) 2019-PRESENT Anthony Fu<https://github.com/antfu>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@vueuse\\components",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@vueuse\\components\\LICENSE"
-  },
   "@vueuse/core@10.5.0": {
     "licenses": "MIT",
     "repository": "https://github.com/vueuse/vueuse",
@@ -2044,6 +2486,19 @@
     "licenseText": "MIT License\n\nCopyright (c) 2019-PRESENT Anthony Fu<https://github.com/antfu>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@vueuse\\metadata",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@vueuse\\metadata\\LICENSE"
+  },
+  "@vueuse/nuxt@10.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vueuse/vueuse",
+    "publisher": "Anthony Fu",
+    "email": "https://github.com/antfu",
+    "name": "@vueuse/nuxt",
+    "version": "10.5.0",
+    "description": "VueUse Nuxt Module",
+    "copyright": "Copyright (c) 2019-PRESENT Anthony Fu<https://github.com/antfu>",
+    "licenseText": "MIT License\n\nCopyright (c) 2019-PRESENT Anthony Fu<https://github.com/antfu>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@vueuse\\nuxt",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\@vueuse\\nuxt\\LICENSE"
   },
   "@vueuse/shared@10.5.0": {
     "licenses": "MIT",
@@ -2547,6 +3002,20 @@
     "licenseText": "(MIT)\n\nCopyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt;\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\balanced-match",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\balanced-match\\LICENSE.md"
+  },
+  "balm-ui@10.23.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/balmjs/balm-ui",
+    "publisher": "Elf-mousE",
+    "email": "ifmouz@gmail.com",
+    "url": "http://elf-mouse.me",
+    "name": "balm-ui",
+    "version": "10.23.2",
+    "description": "A modular and customizable UI library based on Material Design and Vue 3",
+    "copyright": "Copyright (c) 2017-present, N.Elf-mousE",
+    "licenseText": "MIT License\n\nCopyright (c) 2017-present, N.Elf-mousE\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\balm-ui",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\balm-ui\\LICENSE"
   },
   "beeper@1.1.1": {
     "licenses": "MIT",
@@ -3073,14 +3542,14 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\clone-stats",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\clone-stats\\LICENSE.md"
   },
-  "clone@1.0.4": {
+  "clone@2.1.2": {
     "licenses": "MIT",
     "repository": "https://github.com/pvorb/node-clone",
     "publisher": "Paul Vorbach",
     "email": "paul@vorba.ch",
     "url": "http://paul.vorba.ch/",
     "name": "clone",
-    "version": "1.0.4",
+    "version": "2.1.2",
     "description": "deep cloning of objects and arrays",
     "copyright": "Copyright © 2011-2015 Paul Vorbach <paul@vorba.ch>",
     "licenseText": "Copyright © 2011-2015 Paul Vorbach <paul@vorba.ch>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the “Software”), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
@@ -3581,6 +4050,20 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\debuglog",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\debuglog\\LICENSE"
   },
+  "deep-equal@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-deep-equal",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "name": "deep-equal",
+    "version": "1.1.1",
+    "description": "node's assert.deepEqual algorithm",
+    "copyright": "Copyright (c) 2012, 2013, 2014 James Halliday <mail@substack.net>, 2009 Thomas Robinson <280north.com>",
+    "licenseText": "MIT License\n\nCopyright (c) 2012, 2013, 2014 James Halliday <mail@substack.net>, 2009 Thomas Robinson <280north.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\deep-equal",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\deep-equal\\LICENSE"
+  },
   "deep-is@0.1.4": {
     "licenses": "MIT",
     "repository": "https://github.com/thlorenz/deep-is",
@@ -3660,6 +4143,19 @@
     "licenseText": "MIT License\n\nCopyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\define-lazy-prop",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\define-lazy-prop\\license"
+  },
+  "define-properties@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/define-properties",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "name": "define-properties",
+    "version": "1.2.1",
+    "description": "Define multiple non-enumerable properties at once. Uses `Object.defineProperty` when available; falls back to standard assignment in older engines.",
+    "copyright": "Copyright (C) 2015 Jordan Harband",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (C) 2015 Jordan Harband\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\define-properties",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\define-properties\\LICENSE"
   },
   "defu@6.1.2": {
     "licenses": "MIT",
@@ -4481,6 +4977,18 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\event-emitter",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\event-emitter\\LICENSE"
   },
+  "eventemitter3@2.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/primus/eventemitter3",
+    "publisher": "Arnout Kazemier",
+    "name": "eventemitter3",
+    "version": "2.0.3",
+    "description": "EventEmitter3 focuses on performance while maintaining a Node.js AND browser compatible interface.",
+    "copyright": "Copyright (c) 2014 Arnout Kazemier",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2014 Arnout Kazemier\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\eventemitter3",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\eventemitter3\\LICENSE"
+  },
   "execa@7.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/execa",
@@ -4535,6 +5043,20 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\ext",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\ext\\LICENSE"
   },
+  "extend@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/justmoon/node-extend",
+    "publisher": "Stefan Thomas",
+    "email": "justmoon@members.fsf.org",
+    "url": "http://www.justmoon.net",
+    "name": "extend",
+    "version": "3.0.2",
+    "description": "Port of jQuery.extend for node.js and the browser",
+    "copyright": "Copyright (c) 2014 Stefan Thomas",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2014 Stefan Thomas\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\nLIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\nWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\extend",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\extend\\LICENSE"
+  },
   "externality@1.0.2": {
     "licenses": "MIT",
     "repository": "https://github.com/unjs/externality",
@@ -4571,6 +5093,19 @@
     "licenseText": "MIT License\n\nCopyright (c) 2017 Evgeny Poberezkin\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\fast-deep-equal",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\fast-deep-equal\\LICENSE"
+  },
+  "fast-diff@1.1.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/jhchen/fast-diff",
+    "publisher": "Jason Chen",
+    "email": "jhchen7@gmail.com",
+    "name": "fast-diff",
+    "version": "1.1.2",
+    "description": "Fast Javascript text diff",
+    "copyright": "",
+    "licenseText": "# Fast Diff [![Build Status](https://travis-ci.org/jhchen/fast-diff.svg)](https://travis-ci.org/jhchen/fast-diff)\n\nThis is a simplified import of the excellent [diff-match-patch](https://code.google.com/p/google-diff-match-patch/) library by [Neil Fraser](https://neil.fraser.name/) into the Node.js environment. The match and patch parts are removed, as well as all the extra diff options. What remains is incredibly fast diffing between two strings.\n\n The diff function is an implementation of [\"An O(ND) Difference Algorithm and its Variations\" (Myers, 1986)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.4.6927&rep=rep1&type=pdf) with the suggested divide and conquer strategy along with several [optimizations](http://neil.fraser.name/news/2007/10/09/) Neil added.\n\n```js\nvar diff = require('fast-diff');\n\nvar good = 'Good dog';\nvar bad = 'Bad dog';\n\nvar result = diff(good, bad);\n// [[-1, \"Goo\"], [1, \"Ba\"], [0, \"d dog\"]]\n\n// Respect suggested edit location (cursor position), added in v1.1\ndiff('aaa', 'aaaa', 1)\n// [[0, \"a\"], [1, \"a\"], [0, \"aa\"]]\n\n// For convenience\ndiff.INSERT === 1;\ndiff.EQUAL === 0;\ndiff.DELETE === -1;\n```",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\fast-diff",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\fast-diff\\README.md"
   },
   "fast-fifo@1.3.2": {
     "licenses": "MIT",
@@ -4734,6 +5269,19 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\flat",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\flat\\LICENSE"
   },
+  "flatpickr@4.6.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chmln/flatpickr",
+    "publisher": "Gregory",
+    "email": "gregory.mkv@gmail.com",
+    "name": "flatpickr",
+    "version": "4.6.13",
+    "description": "A lightweight, powerful javascript datetime picker",
+    "copyright": "Copyright (c) 2017 Gregory Petrosyan",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2017 Gregory Petrosyan\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\flatpickr",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\flatpickr\\LICENSE.md"
+  },
   "flatted@3.2.9": {
     "licenses": "ISC",
     "repository": "https://github.com/WebReflection/flatted",
@@ -4745,19 +5293,6 @@
     "licenseText": "ISC License\n\nCopyright (c) 2018-2020, Andrea Giammarchi, @WebReflection\n\nPermission to use, copy, modify, and/or distribute this software for any\npurpose with or without fee is hereby granted, provided that the above\ncopyright notice and this permission notice appear in all copies.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH\nREGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY\nAND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,\nINDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM\nLOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE\nOR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR\nPERFORMANCE OF THIS SOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\flatted",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\flatted\\LICENSE"
-  },
-  "floating-vue@2.0.0-beta.24": {
-    "licenses": "MIT",
-    "repository": "https://github.com/Akryum/floating-vue",
-    "publisher": "Guillaume Chau",
-    "email": "guillaume.b.chau@gmail.com",
-    "name": "floating-vue",
-    "version": "2.0.0-beta.24",
-    "description": "Easy Vue tooltips, dropdowns, menus & popovers using floating-ui",
-    "copyright": "Copyright (c) 2018 Guillaume Chau (alias Akryum)",
-    "licenseText": "MIT License\n\nCopyright (c) 2018 Guillaume Chau (alias Akryum)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\floating-vue",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\floating-vue\\LICENSE"
   },
   "foreground-child@3.1.1": {
     "licenses": "ISC",
@@ -4852,6 +5387,19 @@
     "licenseText": "Copyright (c) 2013 Raynos.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\function-bind",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\function-bind\\LICENSE"
+  },
+  "functions-have-names@1.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/functions-have-names",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "name": "functions-have-names",
+    "version": "1.2.3",
+    "description": "Does this JS environment support the `name` property on functions?",
+    "copyright": "Copyright (c) 2019 Jordan Harband",
+    "licenseText": "MIT License\n\nCopyright (c) 2019 Jordan Harband\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\functions-have-names",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\functions-have-names\\LICENSE"
   },
   "gauge@3.0.2": {
     "licenses": "ISC",
@@ -5180,28 +5728,6 @@
     "licenseText": "MIT License\n\nCopyright (c) Pooya Parsa <pooya@pi0.io>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\h3",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\h3\\LICENSE"
-  },
-  "halcyon-vue-nuxt@1.0.1": {
-    "licenses": "MIT",
-    "name": "halcyon-vue-nuxt",
-    "version": "1.0.1",
-    "description": "Nuxt support for halcyon-vue",
-    "copyright": "Copyright 2023 halcyon-vue-nuxt & contributors",
-    "licenseText": "Copyright 2023 halcyon-vue-nuxt & contributors\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\halcyon-vue-nuxt",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\halcyon-vue-nuxt\\LICENSE"
-  },
-  "halcyon-vue@1.1.13": {
-    "licenses": "MIT",
-    "publisher": "Autumn",
-    "url": "https://autumns.page",
-    "name": "halcyon-vue",
-    "version": "1.1.13",
-    "description": "Material 3 library for Vue",
-    "copyright": "",
-    "licenseText": "MIT License Copyright (c) 2023 auctumnus\n\nPermission is hereby granted, free of\ncharge, to any person obtaining a copy of this software and associated\ndocumentation files (the \"Software\"), to deal in the Software without\nrestriction, including without limitation the rights to use, copy, modify, merge,\npublish, distribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to the\nfollowing conditions:\n\nThe above copyright notice and this permission notice\n(including the next paragraph) shall be included in all copies or substantial\nportions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF\nANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO\nEVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR\nOTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\halcyon-vue",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\halcyon-vue\\LICENSE"
   },
   "has-ansi@2.0.0": {
     "licenses": "MIT",
@@ -5702,6 +6228,20 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\iron-webcrypto",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\iron-webcrypto\\LICENSE.md"
   },
+  "is-arguments@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-arguments",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "name": "is-arguments",
+    "version": "1.1.1",
+    "description": "Is this an arguments object? It's a harder question than you think.",
+    "copyright": "Copyright (c) 2014 Jordan Harband",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2014 Jordan Harband\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\is-arguments",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\is-arguments\\LICENSE"
+  },
   "is-binary-path@2.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/is-binary-path",
@@ -5742,6 +6282,18 @@
     "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2014 Dave Justice\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\is-core-module",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\is-core-module\\LICENSE"
+  },
+  "is-date-object@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-date-object",
+    "publisher": "Jordan Harband",
+    "name": "is-date-object",
+    "version": "1.0.5",
+    "description": "Is this value a JS Date object? This module works cross-realm/iframe, and despite ES6 @@toStringTag.",
+    "copyright": "Copyright (c) 2015 Jordan Harband",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2015 Jordan Harband\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\is-date-object",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\is-date-object\\LICENSE"
   },
   "is-docker@3.0.0": {
     "licenses": "MIT",
@@ -6965,6 +7517,17 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\marked",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\marked\\LICENSE.md"
   },
+  "material-components-web@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/material-components/material-components-web",
+    "name": "material-components-web",
+    "version": "14.0.0",
+    "description": "Modular and customizable Material Design UI components for the web",
+    "copyright": "Copyright (c) 2014-2020 Google, Inc.",
+    "licenseText": "The MIT License\n\nCopyright (c) 2014-2020 Google, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\material-components-web",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\material-components-web\\LICENSE"
+  },
   "mdn-data@2.0.30": {
     "licenses": "CC0-1.0",
     "repository": "https://github.com/mdn/data",
@@ -7720,6 +8283,32 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\object-hash",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\object-hash\\LICENSE"
   },
+  "object-is@1.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/object-is",
+    "publisher": "Jordan Harband",
+    "name": "object-is",
+    "version": "1.1.5",
+    "description": "ES2015-compliant shim for Object.is - differentiates between -0 and +0",
+    "copyright": "Copyright (c) 2014 Jordan Harband",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2014 Jordan Harband\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\object-is",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\object-is\\LICENSE"
+  },
+  "object-keys@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/object-keys",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "name": "object-keys",
+    "version": "1.1.1",
+    "description": "An Object.keys replacement, in case Object.keys is not available. From https://github.com/es-shims/es5-shim",
+    "copyright": "Copyright (C) 2013 Jordan Harband",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (C) 2013 Jordan Harband\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\object-keys",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\object-keys\\LICENSE"
+  },
   "ofetch@1.3.3": {
     "licenses": "MIT",
     "repository": "https://github.com/unjs/ofetch",
@@ -7927,6 +8516,19 @@
     "licenseText": "(The MIT License)\n\nCopyright (C) 2014-2017 by Vitaly Puzrin and Andrei Tuputcyn\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\pako",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\pako\\LICENSE"
+  },
+  "parchment@1.1.4": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/quilljs/parchment",
+    "publisher": "Jason Chen",
+    "email": "jhchen7@gmail.com",
+    "name": "parchment",
+    "version": "1.1.4",
+    "description": "A document model for rich text editors",
+    "copyright": "Copyright (c) 2015, Jason Chen. All rights reserved.",
+    "licenseText": "Copyright (c) 2015, Jason Chen\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n\n1. Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.\n\n3. Neither the name of the copyright holder nor the names of its\ncontributors may be used to endorse or promote products derived from\nthis software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS\nIS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED\nTO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A\nPARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT\nHOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT\nLIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,\nDATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY\nTHEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\parchment",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\parchment\\LICENSE"
   },
   "parent-module@1.0.1": {
     "licenses": "MIT",
@@ -9043,6 +9645,32 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\queue-tick",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\queue-tick\\LICENSE"
   },
+  "quill-delta@3.6.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/quilljs/delta",
+    "publisher": "Jason Chen",
+    "email": "jhchen7@gmail.com",
+    "name": "quill-delta",
+    "version": "3.6.3",
+    "description": "Format for representing rich text documents and changes.",
+    "copyright": "Copyright (c) 2014 Jason Chen",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2014 Jason Chen\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\quill-delta",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\quill-delta\\LICENSE"
+  },
+  "quill@1.3.7": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/quilljs/quill",
+    "publisher": "Jason Chen",
+    "email": "jhchen7@gmail.com",
+    "name": "quill",
+    "version": "1.3.7",
+    "description": "Your powerful, rich text editor",
+    "copyright": "Copyright (c) 2014, Jason Chen. Copyright (c) 2013, salesforce.com. All rights reserved.",
+    "licenseText": "Copyright (c) 2014, Jason Chen\nCopyright (c) 2013, salesforce.com\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n\n1. Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.\n\n3. Neither the name of the copyright holder nor the names of its\ncontributors may be used to endorse or promote products derived from\nthis software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS\nIS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED\nTO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A\nPARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT\nHOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT\nLIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,\nDATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY\nTHEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\quill",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\quill\\LICENSE"
+  },
   "radix3@1.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/unjs/radix3",
@@ -9228,6 +9856,19 @@
     "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2015 NodeRedis\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\redis-parser",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\redis-parser\\LICENSE"
+  },
+  "regexp.prototype.flags@1.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/RegExp.prototype.flags",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "name": "regexp.prototype.flags",
+    "version": "1.5.1",
+    "description": "ES6 spec-compliant RegExp.prototype.flags shim.",
+    "copyright": "Copyright (C) 2014 Jordan Harband",
+    "licenseText": "The MIT License (MIT)\n\nCopyright (C) 2014 Jordan Harband\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\regexp.prototype.flags",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\regexp.prototype.flags\\LICENSE"
   },
   "replace-ext@0.0.1": {
     "licenses": "MIT",
@@ -9573,6 +10214,19 @@
     "licenseText": "MIT License\n\nCopyright (c) Jordan Harband and contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\set-function-length",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\set-function-length\\LICENSE"
+  },
+  "set-function-name@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/set-function-name",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "name": "set-function-name",
+    "version": "2.0.1",
+    "description": "Set a function's name property",
+    "copyright": "Copyright (c) Jordan Harband and contributors",
+    "licenseText": "MIT License\n\nCopyright (c) Jordan Harband and contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\set-function-name",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\set-function-name\\LICENSE"
   },
   "setprototypeof@1.2.0": {
     "licenses": "ISC",
@@ -10548,6 +11202,18 @@
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\ts-interface-checker",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\ts-interface-checker\\LICENSE"
   },
+  "tslib@2.6.2": {
+    "licenses": "0BSD",
+    "repository": "https://github.com/Microsoft/tslib",
+    "publisher": "Microsoft Corp.",
+    "name": "tslib",
+    "version": "2.6.2",
+    "description": "Runtime library for TypeScript helper functions",
+    "copyright": "Copyright (c) Microsoft Corporation.",
+    "licenseText": "Copyright (c) Microsoft Corporation.\r\n\r\nPermission to use, copy, modify, and/or distribute this software for any\r\npurpose with or without fee is hereby granted.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH\r\nREGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY\r\nAND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,\r\nINDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM\r\nLOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR\r\nOTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR\r\nPERFORMANCE OF THIS SOFTWARE.",
+    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\tslib",
+    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\tslib\\LICENSE.txt"
+  },
   "tuf-js@2.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/theupdateframework/tuf-js",
@@ -10777,19 +11443,6 @@
     "licenseText": "(The MIT License)\n\nCopyright (c) 2017, Ryan Zimmerman <opensrc@ryanzim.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the 'Software'), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\universalify",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\universalify\\LICENSE"
-  },
-  "unplugin-icons@0.17.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/antfu/unplugin-icons",
-    "publisher": "Anthony Fu",
-    "email": "anthonyfu117@hotmail.com",
-    "name": "unplugin-icons",
-    "version": "0.17.1",
-    "description": "Access thousands of icons as components on-demand universally",
-    "copyright": "Copyright (c) 2020-PRESENT Anthony Fu<https://github.com/antfu>",
-    "licenseText": "MIT License\n\nCopyright (c) 2020-PRESENT Anthony Fu<https://github.com/antfu>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\unplugin-icons",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\unplugin-icons\\LICENSE"
   },
   "unplugin-vue-router@0.7.0": {
     "licenses": "MIT",
@@ -11244,19 +11897,6 @@
     "licenseText": "MIT License\n\nCopyright (c) 2016 Toru Nagashima\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
     "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\vue-eslint-parser",
     "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\vue-eslint-parser\\LICENSE"
-  },
-  "vue-resize@2.0.0-alpha.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/Akryum/vue-resize",
-    "publisher": "Guillaume Chau",
-    "email": "guillaume.b.chau@gmail.com",
-    "name": "vue-resize",
-    "version": "2.0.0-alpha.1",
-    "description": "Detects DOM element resizing",
-    "copyright": "",
-    "licenseText": "# vue-resize\n\n[![npm](https://img.shields.io/npm/v/vue-resize.svg) ![npm](https://img.shields.io/npm/dm/vue-resize.svg)](https://www.npmjs.com/package/vue-resize)\n[![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)\n\nDetect DOM element resizing\n\n[JSFiddle](https://jsfiddle.net/Akryum/zqygwf3r/)\n\n<p>\n  <a href=\"https://www.patreon.com/akryum\" target=\"_blank\">\n    <img src=\"https://c5.patreon.com/external/logo/become_a_patron_button.png\" alt=\"Become a Patreon\">\n  </a>\n</p>\n\n## Sponsors\n\n[![sponsors logos](https://guillaume-chau.info/sponsors.png)](https://guillaume-chau.info/sponsors)\n\n<br>\n\n# Installation\n\n```\nnpm install --save vue-resize\n```\n\n## Module import\n\n**⚠️ You need to include the package CSS:**\n\n```js\nimport 'vue-resize/dist/vue-resize.css'\n```\n\nThen import the package and install it into Vue:\n\n```javascript\nimport VueResize from 'vue-resize'\n\napp.use(VueResize)\n```\n\nOr:\n\n```javascript\nimport { ResizeObserver } from 'vue-resize'\n\napp.component('resize-observer', ResizeObserver)\n```\n\n## Browser\n\n```html\n<link rel=\"stylesheet\" href=\"vue-resize/dist/vue-resize.css\"/>\n\n<script src=\"vue.js\"></script>\n<script src=\"vue-resize/dist/vue-resize.min.js\"></script>\n```\n\n```javascript\napp.use(VueResize)\n```\n\nOr:\n\n```javascript\napp.component('resize-observer', VueResize.ResizeObserver)\n```\n\n# Usage\n\nAdd the `<resize-observer>` inside a DOM element and make its position to something other than `'static'` (for example `'relative'`), so that the observer can fill it.\n\nListen to the `notify` event that is fired when the above DOM element is resized.\n\n# Example\n\n```html\n<template>\n  <div class=\"demo\">\n    <h1>Hello world!</h1>\n    <resize-observer @notify=\"handleResize\" />\n  </div>\n</template>\n\n<script>\nexport default {\n  methods: {\n    handleResize ({ width, height }) {\n      console.log('resized', width, height)\n    }\n  }\n}\n</script>\n\n<style scoped>\n.demo {\n  position: relative;\n}\n</style>\n```\n\n---\n\n## License\n\n[MIT](http://opensource.org/licenses/MIT)",
-    "path": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\vue-resize",
-    "licenseFile": "D:\\Documents\\.node_projects\\ykvocl\\node_modules\\vue-resize\\README.md"
   },
   "vue-router@4.2.5": {
     "licenses": "MIT",

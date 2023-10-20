@@ -47,4 +47,12 @@ body {
 * {
   color: var(--mdc-theme-on-surface) !important;
 }
+
+.mdc-deprecated-list-divider {
+  border-color: var(--mdc-theme-on-surface);
+}
+
+.mdc-text-field--filled {
+  background-color: var(--mdc-theme-surface) !important;
+}
 </style>

@@ -6,12 +6,12 @@ div
       UiIconButton#drawer-opener(
         :class="navIconClass",
         icon="menu",
-        @click="drawerOpen=true"
+        @click="drawerOpen = true"
       )
     template(#toolbar="{ toolbarItemClass }")
       NuxtLink(to="/settings")
         UiIconButton(:class="toolbarItemClass", icon="settings")
 </template>
 <script setup lang="ts">
-const drawerOpen = useState("drawerOpen", () => false)
+const drawerOpen = useState("drawerOpen", () => false);
 </script>

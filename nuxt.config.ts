@@ -27,5 +27,5 @@ export default defineNuxtConfig({
       format: "es",
     },
   },
-  modules: ["@formkit/auto-animate/nuxt"],
+  modules: ["@formkit/auto-animate/nuxt", "@vueuse/nuxt"],
 });

@@ -20,6 +20,9 @@ devDependencies:
   "@tsconfig/strictest":
     specifier: ^2.0.2
     version: 2.0.2
+  "@types/diff":
+    specifier: ^5.0.7
+    version: 5.0.7
   "@types/dompurify":
     specifier: ^3.0.4
     version: 3.0.4
@@ -38,6 +41,9 @@ devDependencies:
   "@vueuse/core":
     specifier: ^10.5.0
     version: 10.5.0(vue@3.3.4)
+  "@vueuse/nuxt":
+    specifier: ^10.5.0
+    version: 10.5.0(nuxt@3.8.0)(vue@3.3.4)
   autoprefixer:
     specifier: ^10.4.16
     version: 10.4.16(postcss@8.4.31)
@@ -47,6 +53,9 @@ devDependencies:
   browserfs:
     specifier: ^1.4.3
     version: 1.4.3
+  diff:
+    specifier: ^5.1.0
+    version: 5.1.0
   dompurify:
     specifier: ^3.0.6
     version: 3.0.6
@@ -3045,6 +3054,13 @@ packages:
       minimatch: 9.0.3
     dev: true
 
+  /@types/diff@5.0.7:
+    resolution:
+      {
+        integrity: sha512-adBosR2GntaQQiuHnfRN9HtxYpoHHJBcdyz7VSXhjpSAmtvIfu/S1fjTqwuIx/Ypba6LCZdfWIqPYx2BR5TneQ==,
+      }
+    dev: true
+
   /@types/dompurify@3.0.4:
     resolution:
       {
@@ -3641,6 +3657,27 @@ packages:
       {
         integrity: sha512-fEbElR+MaIYyCkeM0SzWkdoMtOpIwO72x8WsZHRE7IggiOlILttqttM69AS13nrDxosnDBYdyy3C5mR1LCxHsw==,
       }
+    dev: true
+
+  /@vueuse/nuxt@10.5.0(nuxt@3.8.0)(vue@3.3.4):
+    resolution:
+      {
+        integrity: sha512-x1mpjwcPB5DGA3cTM29Hf3bralslrma3Jr0fXm3Js3dbUHdadC/iVMf831W+sKPjZBhiZxR0S94B8gmGlvZ/1Q==,
+      }
+    peerDependencies:
+      nuxt: ^3.0.0
+    dependencies:
+      "@nuxt/kit": 3.8.0
+      "@vueuse/core": 10.5.0(vue@3.3.4)
+      "@vueuse/metadata": 10.5.0
+      local-pkg: 0.5.0
+      nuxt: 3.8.0(eslint@8.51.0)(sass@1.69.4)(typescript@5.2.2)(vite@4.5.0)
+      vue-demi: 0.14.6(vue@3.3.4)
+    transitivePeerDependencies:
+      - "@vue/composition-api"
+      - rollup
+      - supports-color
+      - vue
     dev: true
 
   /@vueuse/shared@10.5.0(vue@3.3.4):

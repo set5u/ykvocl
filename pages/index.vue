@@ -4,5 +4,4 @@ div
   MainHeader(ref="headerElementRef")
   Main#main
   MainFooter(ref="footerElementRef")
-
 </template>
