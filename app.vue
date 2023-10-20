@@ -1,6 +1,6 @@
 <template lang="pug">
-div
-  Title YukiVocaLearn
+Title YukiVocaLearn
+div(v-auto-animate)
   NuxtPage
 </template>
 
