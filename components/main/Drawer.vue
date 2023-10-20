@@ -43,10 +43,10 @@ div
 
 <script setup lang="ts">
 import IconHome from "~icons/mdi/home";
-import IconNote from "~icons/mdi/note"
-import IconNoteAdd from "~icons/mdi/noteAdd"
+import IconNote from "~icons/mdi/note";
+import IconNoteAdd from "~icons/mdi/noteAdd";
 import IconSettings from "~icons/mdi/settings";
-const drawerOpen = useState("drawerOpen", () => false)
+const drawerOpen = useState("drawerOpen", () => false);
 const route = useRoute();
 watch(toRef(route, "fullPath"), () => {
   drawerOpen.value = false;
