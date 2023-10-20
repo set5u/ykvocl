@@ -6,7 +6,7 @@ export default defineNuxtConfig({
       extends: "@tsconfig/strictest/tsconfig.json",
     },
   },
-  css: ["assets/css/main.css", "balm-ui/dist/balm-ui.css"],
+  css: ["assets/css/main.css"],
   postcss: {
     plugins: {
       tailwindcss: {},

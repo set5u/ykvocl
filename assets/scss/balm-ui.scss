@@ -1,0 +1,14 @@
+@use "@material/theme" as theme-variables with (
+  $primary: #055b78,
+  $secondary: #057853,
+  $background: #363845,
+  $surface: #212224,
+  $error: #e33505
+);
+
+@use "balm-ui/dist/balm-ui";
+
+body {
+  background-color: var(--mdc-theme-background);
+  color: white;
+}

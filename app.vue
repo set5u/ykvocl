@@ -6,6 +6,7 @@ div
 
 <script setup lang="ts">
 import StackTrace from "stacktrace-js";
+import "assets/scss/balm-ui.scss";
 const reloadIfUserRequestIt = (message: string) => {
   const confirmed =
     confirm(`A fatal error may have occurred within the application.
@@ -38,21 +39,3 @@ onErrorCaptured((err) => {
   return false;
 });
 </script>
-
-<style lang="scss">
-body {
-  background-color: var(--mdc-theme-background);
-}
-
-:where(:not(.md *, .mdpug *)) {
-  color: var(--mdc-theme-on-surface) !important;
-}
-
-.mdc-deprecated-list-divider {
-  border-color: var(--mdc-theme-on-surface);
-}
-
-.mdc-text-field--filled {
-  background-color: var(--mdc-theme-surface) !important;
-}
-</style>
