@@ -1,4 +1,3 @@
 <template lang="pug">
-.text-center
-  .text-4xl Settings
+.text-4xl.text-center Settings
 </template>

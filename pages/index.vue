@@ -37,9 +37,6 @@ const mainHeight = computed(
     1 +
     "px",
 );
-
-const drawerOpen = ref(false);
-provide("drawerOpen", drawerOpen);
 </script>
 
 <style scoped lang="scss">

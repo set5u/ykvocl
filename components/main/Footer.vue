@@ -6,5 +6,5 @@ div
       span 
       strong YukiVocaLearn
       | @2023-ajiken4610 licensed under the `MIT LICENSE`. For license information, please see
-      NuxtLink.pl-1(to="/license") /license
+      NuxtLink.pl-1(to="/license") #/license
 </template>

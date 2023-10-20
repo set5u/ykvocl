@@ -11,6 +11,24 @@ div
           IconHome
         template(#inactive)
           IconHome
+    NuxtLink(to="/test")
+      HNavigationButton(
+        :is-active="!!route.fullPath.match(testReg)",
+        label="Test"
+      )
+        template(#active)
+          IconNote
+        template(#inactive)
+          IconNote
+    NuxtLink(to="/add")
+      HNavigationButton(
+        :is-active="!!route.fullPath.match(addReg)",
+        label="Add Word"
+      )
+        template(#active)
+          IconNoteAdd
+        template(#inactive)
+          IconNoteAdd
     HDivider
     NuxtLink(to="/settings")
       HNavigationButton(
@@ -25,13 +43,17 @@ div
 
 <script setup lang="ts">
 import IconHome from "~icons/mdi/home";
+import IconNote from "~icons/mdi/note"
+import IconNoteAdd from "~icons/mdi/noteAdd"
 import IconSettings from "~icons/mdi/settings";
-const drawerOpen = inject<Ref<boolean>>("drawerOpen", () => ref(false), true);
+const drawerOpen = useState("drawerOpen", () => false)
 const route = useRoute();
 watch(toRef(route, "fullPath"), () => {
   drawerOpen.value = false;
 });
 
 const indexReg = /^\/?$/;
+const testReg = /^\/test\/?$/;
+const addReg = /^\/add\/?$/;
 const settingsReg = /^\/settings\/?$/;
 </script>

@@ -22,5 +22,5 @@ div
 import IconMenu from "~icons/mdi/menu";
 import IconSettings from "~icons/mdi/settings";
 // import IconMoreVert from "~icons/mdi/moreVert"
-const drawerOpen = inject<boolean>("drawerOpen");
+const drawerOpen = useState("drawerOpen", () => false)
 </script>

@@ -1,6 +1,6 @@
 <template lang="pug">
 div
-  HButton(kind="elevated", content="HELLOWORLD!") 
+  HButton.mx-auto(kind="elevated", content="HELLOWORLD!") 
     Heart
 </template>
 
