@@ -22,7 +22,7 @@ UiDrawer(v-model="drawerOpen", type="modal")
       )
         UiItemFirstContent
           UiIcon note_add
-        UiItemTextContent Add Words
+        UiItemTextContent Add Word
       UiNavItem(
         href="#/list",
         :active="$route.path === '/list' || $route.path === '/list/'"
