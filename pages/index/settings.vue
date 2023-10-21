@@ -82,20 +82,30 @@ const showToast = (text: string) => {
 
 const exportSavedata = () => {
   const permissionWrite = usePermission("clipboard-write");
-  permissionWrite
-    ? copy(wordsWithScoreToString()).then(() =>
-        showToast("Successfully Exported to Clipboard"),
-      )
-    : showToast("Permission denied");
+  try {
+    if (permissionWrite.value === "denied") {
+      throw new Error("Permission denied");
+    }
+    copy(wordsWithScoreToString()).then(() =>
+      showToast("Successfully Exported to Clipboard"),
+    );
+  } catch (e) {
+    showToast("Couldn't write to Clipboard");
+  }
 };
 
 const exportWords = () => {
   const permissionWrite = usePermission("clipboard-write");
-  permissionWrite
-    ? copy(wordsToString()).then(() =>
-        showToast("Successfully Exported to Clipboard"),
-      )
-    : showToast("Permission denied");
+  try {
+    if (permissionWrite.value === "denied") {
+      throw new Error("Permission denied");
+    }
+    copy(wordsToString()).then(() =>
+      showToast("Successfully Exported to Clipboard"),
+    );
+  } catch (e) {
+    showToast("Couldn't write to Clipboard");
+  }
 };
 
 const importSavedataDialogShowing = ref(false);
@@ -109,13 +119,16 @@ const conflictMode = ref<"src" | "dst" | "append">("src");
 const importingData = ref("");
 
 const getImportingDataFromClipboard = async () => {
-  const permissionRead = usePermission("clipboard-read");
-  if (!permissionRead.value) {
-    showToast("Permission denied");
-    return;
+  try {
+    const permission = usePermission("clipboard-read");
+    if (permission.value === "denied") {
+      throw new Error("Permission denied");
+    }
+    importingData.value = await navigator.clipboard.readText();
+    showToast("Successully read clipboard");
+  } catch (e) {
+    showToast("Couldn't read clipboard");
   }
-  importingData.value = await navigator.clipboard.readText();
-  showToast("Successully read clipboard");
 };
 
 const importSavedata = () => {
@@ -132,7 +145,7 @@ const importWords = () => {
     mergeWords(JSON.parse(importingData.value), conflictMode.value);
     showToast("Successfully Imported.");
   } catch (e) {
-    console.log(e);
+    console.error(e);
     showToast("Failed to import data. Please make sure the format is correct.");
   }
 };
