@@ -1,11 +1,17 @@
 <template lang="pug">
 div
-  .text-4xl.text-center Add Word
+  .text-4xl.text-center
+    UiIcon.mx-2 note_add
+    | Add Word
   UiTextfield.w-full.mt-4(v-model="keyInput") Key
   UiTextfield.w-full.my-2(v-model="valueInput") Value
   .text-right(v-auto-animate)
-    .font-bold(v-if="showVaridation", class="!text-red-600") Both properties are Required.
-    .font-bold(v-if="added", class="!text-green-600") Successfully added.
+    .font-bold(v-if="showVaridation", class="!text-red-600")
+      UiIcon error
+      span.align-top Both properties are Required.
+    .font-bold(v-if="added", class="!text-green-600")
+      UiIcon check
+      span.align-top Successfully added.
     .flex.flex-row-reverse.mt-1
       UiButton(class="!min-w-[5rem]", raised, @click="addWordAndReset") Add
 </template>

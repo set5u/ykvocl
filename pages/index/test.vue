@@ -12,19 +12,26 @@ div(v-if="problem", v-auto-animate)
       UiButton.mt-4(raised, @click="confirm") Confirm
   .text-center(v-else)
     div Answer: {{ problem[1] }}
-    .font-bold(v-if="answer === problem[1]", class="!text-green-500") Correct!
+    .font-bold(v-if="answer === problem[1]", class="!text-green-500")
+      UiIcon check
+      span.align-top Correct!
     template(v-else)
       div Answered: {{ answer }}
-      .font-bold(class="!text-red-500") Incorrect!
-      PartsDiff(:src="answer", :dst="problem[1]")
+      .font-bold(class="!text-red-500")
+        UiIcon error
+        span.align-top Incorrect!
+      PartsDiff.mb-2(:src="answer", :dst="problem[1]")
     .block.mx-auto.w-fit
-      UiButton.mt-4(raised, @click="next") Next
+      UiButton(raised, @click="next") Next
   .flex.flex-row-reverse(v-auto-animate)
-    .font-bold.mt-4(v-if="showVaridation", class="!text-red-600") Value is Required.
+    .font-bold.mt-4(v-if="showVaridation", class="!text-red-600")
+      UiIcon error
+      span.align-top Value is Required.
 .text-center(v-else)
-  .text-4xl No words in word list.
-  NuxtLink.mt-4.block.w-fit.mx-auto(to="/add")
-    UiButton(raised) Add Word
+  .text-4xl
+    UiIcon.mx-2 contact_support
+    | No words in word list.
+  AddButton.mt-4.block.w-fit.mx-auto
 </template>
 
 <script setup lang="ts">

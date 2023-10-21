@@ -1,7 +1,7 @@
 <template lang="pug">
 div
   UiTopAppBar(content-selector="#main")
-    div YukiVocaLearn
+    div AjiVocaLearn
     template(#nav-icon="{ navIconClass }")
       UiIconButton#drawer-opener(
         :class="navIconClass",

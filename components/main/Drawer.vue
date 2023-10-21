@@ -1,7 +1,7 @@
 <template lang="pug">
 UiDrawer(v-model="drawerOpen", type="modal")
   UiDrawerHeader
-    UiDrawerTitle YukiVocaLearn
+    UiDrawerTitle AjiVocaLearn
   UiDrawerContent
     UiNav
       UiNavItem(href="#/", :active="$route.path === '/'")
@@ -14,7 +14,7 @@ UiDrawer(v-model="drawerOpen", type="modal")
         :active="$route.path === '/test' || $route.path === '/test/'"
       )
         UiItemFirstContent
-          UiIcon note
+          UiIcon quiz
         UiItemTextContent Test
       UiNavItem(
         href="#/add",

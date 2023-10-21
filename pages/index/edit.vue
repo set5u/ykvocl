@@ -1,10 +1,14 @@
 <template lang="pug">
 div
-  .text-4xl.text-center Edit Word
+  .text-4xl.text-center
+    UiIcon.mx-2 edit
+    | Edit Word
   UiTextfield.w-full.mt-4(v-model="current[0]") Key
   UiTextfield.w-full.my-2(v-model="current[1]") Value
   .text-right(v-auto-animate)
-    .font-bold(v-if="showVaridation", class="!text-red-600") Both properties are Required.
+    .font-bold(v-if="showVaridation", class="!text-red-600")
+      UiIcon error
+      span.align-top Both properties are Required.
     .flex.flex-row-reverse.mt-1
       UiButton(
         class="!min-w-[5rem]",

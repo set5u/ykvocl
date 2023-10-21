@@ -3,16 +3,24 @@ div
   .text-4xl.text-center Settings
   .mt-4.text-2xl.text-center Export
   .w-fit.mx-auto.text-center
-    UiButton.m-2(raised, @click="exportSavedata") Export Savedata (Including Score)
-    UiButton.m-2(raised, @click="exportWords") Export Words (Excluding Score)
+    UiButton.m-2(raised, icon="output", @click="exportSavedata") Export Savedata (Including Score)
+    UiButton.m-2(raised, icon="output", @click="exportWords") Export Words (Excluding Score)
   .mt-4.text-2xl.text-center Import
   .w-fit.mx-auto.text-center
-    UiButton.m-2(raised, @click="importSavedataDialogShowing = true") Import Savedata (Including Score)
-    UiButton.m-2(raised, @click="importWordsDialogShowing = true") Import Words (Excluding Score)
+    UiButton.m-2(
+      raised,
+      icon="input",
+      @click="importSavedataDialogShowing = true"
+    ) Import Savedata (Including Score)
+    UiButton.m-2(
+      raised,
+      icon="input",
+      @click="importWordsDialogShowing = true"
+    ) Import Words (Excluding Score)
   .mt-4.text-2xl.text-center License Info
   .w-fit.mx-auto
     NuxtLink(to="/license")
-      UiButton(raised) #/license
+      UiButton(raised, icon="list_alt") license
   UiSnackbar(
     v-model="toastShowing",
     :timeout-ms="5000",

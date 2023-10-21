@@ -1,7 +1,7 @@
 <template lang="pug">
 Html(lang="en")
   Head
-    Title YukiVocaLearn
+    Title AjiVocaLearn
 div(v-auto-animate)
   NuxtPage
 </template>

@@ -1,6 +1,8 @@
 <template lang="pug">
 div(v-if="wordsWithScoreObject.length", v-auto-animate)
-  .text-4xl.text-center.my-4 Words
+  .text-4xl.text-center.my-4
+    UiIcon.px-2 notes
+    | Words
   UiTable(
     fullwidth,
     :thead="thead",
@@ -22,9 +24,10 @@ div(v-if="wordsWithScoreObject.length", v-auto-animate)
     template(#default="{ currentMinRow, currentMaxRow }")
       | {{ currentMinRow }} - {{ currentMaxRow }} / {{ wordsWithScoreObject.length }}
 .text-center(v-else)
-  .text-4xl No words in word list.
-  NuxtLink.mt-4.block.w-fit.mx-auto(to="/add")
-    UiButton(raised) Add Word
+  .text-4xl
+    UiIcon.mx-2 contact_support
+    | No words in word list.
+  AddButton.mt-4.block.w-fit.mx-auto
 </template>
 
 <script setup lang="ts">
