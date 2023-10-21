@@ -110,7 +110,7 @@ const importingData = ref("");
 
 const getImportingDataFromClipboard = async () => {
   const permissionRead = usePermission("clipboard-read");
-  if (!permissionRead) {
+  if (!permissionRead.value) {
     showToast("Permission denied");
     return;
   }
