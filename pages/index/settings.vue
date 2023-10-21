@@ -21,6 +21,9 @@ div
   .w-fit.mx-auto
     NuxtLink(to="/license")
       UiButton(raised, icon="list_alt") license
+  .mt-4.text-2xl.text-center Check for Update the App
+  .w-fit.mx-auto
+    UiButton(raised, icon="browser_updated", @click="deleteCacheAndShowToast") DELETE CACHE
   UiSnackbar(
     v-model="toastShowing",
     :timeout-ms="5000",
@@ -148,5 +151,12 @@ const importWords = () => {
     console.error(e);
     showToast("Failed to import data. Please make sure the format is correct.");
   }
+};
+const deleteCacheAndShowToast = () => {
+  deleteCache();
+  showToast("Successfully cache deleted.Reloading the page...");
+  setTimeout(() => {
+    location.reload();
+  }, 2000);
 };
 </script>

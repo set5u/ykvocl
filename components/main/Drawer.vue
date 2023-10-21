@@ -1,7 +1,9 @@
 <template lang="pug">
 UiDrawer(v-model="drawerOpen", type="modal")
   UiDrawerHeader
-    UiDrawerTitle AjiVocaLearn
+    UiDrawerTitle
+      img.w-16.h-16.mb-4(src="~/assets/images/vt.png")
+      | AjiVocaLearn
   UiDrawerContent
     UiNav
       UiNavItem(href="#/", :active="$route.path === '/'")

@@ -27,11 +27,35 @@ export default defineNuxtConfig({
       format: "es",
     },
   },
-  modules: ["@formkit/auto-animate/nuxt", "@vueuse/nuxt"],
+  modules: [
+    "@formkit/auto-animate/nuxt",
+    "@vueuse/nuxt",
+    "@kevinmarrec/nuxt-pwa",
+  ],
   nitro: {
     prerender: {
       crawlLinks: true,
       routes: ["/license"],
+    },
+  },
+  pwa: {
+    icon: {
+      source: "assets/images/vt.png",
+    },
+    meta: {
+      name: "Aji Voca Learn",
+      author: "ajiken4610",
+      title: "Aji Voca Learn",
+      description: "Aji Voca Learn",
+      mobileAppIOS: true,
+      theme_color: "#055b78",
+    },
+    manifest: {
+      start_url: "/ykvocl/",
+      background_color: "#222",
+      name: "Aji Voca Learn",
+      short_name: "AjiVL",
+      description: "Aji Voca Learn",
     },
   },
 });

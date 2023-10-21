@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "aji-voca-learn",
   "private": true,
   "type": "module",
   "scripts": {
@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@formkit/auto-animate": "^0.8.0",
+    "@kevinmarrec/nuxt-pwa": "^0.17.0",
     "@nuxt/devtools": "latest",
     "@plotdb/pug-browser": "^0.0.3",
     "@prettier/plugin-pug": "^3.0.0",
