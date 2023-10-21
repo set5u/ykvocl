@@ -19,23 +19,24 @@ ${message}
 Check the console for details.`);
   confirmed && window.location.reload();
 };
-
-window.addEventListener("error", (ev) => {
-  const error: Error = ev.error;
-  const message = error.toString();
-  StackTrace.fromError(error).then((trace): void => {
-    console.error(message);
-    console.error(trace);
-    reloadIfUserRequestIt(message);
+onMounted(() => {
+  window.addEventListener("error", (ev) => {
+    const error: Error = ev.error;
+    const message = error.toString();
+    StackTrace.fromError(error).then((trace): void => {
+      console.error(message);
+      console.error(trace);
+      reloadIfUserRequestIt(message);
+    });
   });
-});
-onErrorCaptured((err) => {
-  const message = err.toString();
-  StackTrace.get().then((trace): void => {
-    console.error(message);
-    console.error(trace);
-    reloadIfUserRequestIt(message);
+  onErrorCaptured((err) => {
+    const message = err.toString();
+    StackTrace.get().then((trace): void => {
+      console.error(message);
+      console.error(trace);
+      reloadIfUserRequestIt(message);
+    });
+    return false;
   });
-  return false;
 });
 </script>

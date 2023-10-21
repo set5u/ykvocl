@@ -2,6 +2,6 @@
 div
   MainDrawer
   MainHeader(ref="headerElementRef")
-  Main#main
+  Main#main(v-auto-animate)
   MainFooter(ref="footerElementRef")
 </template>

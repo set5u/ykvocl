@@ -28,4 +28,10 @@ export default defineNuxtConfig({
     },
   },
   modules: ["@formkit/auto-animate/nuxt", "@vueuse/nuxt"],
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      routes: ["/license"],
+    },
+  },
 });

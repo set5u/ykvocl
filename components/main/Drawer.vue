@@ -3,37 +3,35 @@ UiDrawer(v-model="drawerOpen", type="modal")
   UiDrawerHeader
     UiDrawerTitle YukiVocaLearn
   UiDrawerContent
-    UiList
-      NuxtLink(to="/")
-        UiNavItem(href="javascript:void(0)", :active="$route.path === '/'")
-          UiItemFirstContent
-            UiIcon home
-          UiItemTextContent Home
-      NuxtLink(to="/test")
-        UiNavItem(
-          href="javascript:void(0)",
-          :active="$route.path === '/test' || $route.path === '/test/'"
-        )
-          UiItemFirstContent
-            UiIcon note
-          UiItemTextContent Test
-      NuxtLink(to="/add")
-        UiNavItem(
-          href="javascript:void(0)",
-          :active="$route.path === '/add' || $route.path === '/add/'"
-        )
-          UiItemFirstContent
-            UiIcon note_add
-          UiItemTextContent Add Words
+    UiNav
+      UiNavItem(href="#/", :active="$route.path === '/'")
+        //- NuxtLink(to="/")
+        UiItemFirstContent
+          UiIcon home
+        UiItemTextContent Home
+      UiNavItem(
+        href="#/test",
+        :active="$route.path === '/test' || $route.path === '/test/'"
+      )
+        UiItemFirstContent
+          UiIcon note
+        UiItemTextContent Test
+      UiNavItem(
+        href="#/add",
+        :active="$route.path === '/add' || $route.path === '/add/'"
+      )
+        UiItemFirstContent
+          UiIcon note_add
+        UiItemTextContent Add Words
       UiItemDivider
-      NuxtLink(to="/settings")
-        UiNavItem(
-          href="javascript:void(0)",
-          :active="$route.path === '/settings' || $route.path === '/settings/'"
-        )
-          UiItemFirstContent
-            UiIcon settings
-          UiItemTextContent Settings
+
+      UiNavItem(
+        href="#/settings",
+        :active="$route.path === '/settings' || $route.path === '/settings/'"
+      )
+        UiItemFirstContent
+          UiIcon settings
+        UiItemTextContent Settings
 </template>
 
 <script setup lang="ts">
