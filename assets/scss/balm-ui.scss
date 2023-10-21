@@ -12,3 +12,7 @@ body {
   background-color: var(--mdc-theme-background);
   color: white;
 }
+select {
+  color: black;
+  min-width: 5rem;
+}

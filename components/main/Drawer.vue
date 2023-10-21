@@ -23,8 +23,14 @@ UiDrawer(v-model="drawerOpen", type="modal")
         UiItemFirstContent
           UiIcon note_add
         UiItemTextContent Add Words
+      UiNavItem(
+        href="#/list",
+        :active="$route.path === '/list' || $route.path === '/list/'"
+      )
+        UiItemFirstContent
+          UiIcon notes
+        UiItemTextContent Words List
       UiItemDivider
-
       UiNavItem(
         href="#/settings",
         :active="$route.path === '/settings' || $route.path === '/settings/'"
