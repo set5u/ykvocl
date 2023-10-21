@@ -21,6 +21,7 @@ export default defineNuxtConfig({
   },
   app: {
     cdnURL: "/ykvocl/",
+    baseURL: "/ykvocl/",
   },
   vite: {
     worker: {
