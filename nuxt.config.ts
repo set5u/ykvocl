@@ -19,10 +19,10 @@ export default defineNuxtConfig({
       hashMode: true,
     },
   },
-  app: {
-    cdnURL: "/ykvocl/",
-    baseURL: "/ykvocl/",
-  },
+  //   app: {
+  //     cdnURL: "/ykvocl/",
+  //     baseURL: "/ykvocl/",
+  //   },
   vite: {
     worker: {
       format: "es",

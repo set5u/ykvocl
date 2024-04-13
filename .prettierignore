@@ -1,3 +1,4 @@
 docs
 *.min.js
 *.min.css
+src-tauri

@@ -23,5 +23,5 @@ module.exports = {
       pug: "vue-eslint-parser-template-tokenizer-pug",
     },
   },
-  ignorePatterns: ["docs", "*.min.js", "*.min.css"],
+  ignorePatterns: ["docs", "*.min.js", "*.min.css", "src-tauri"],
 };

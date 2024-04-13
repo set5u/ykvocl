@@ -16,8 +16,8 @@
     },
     "bundle": {
       "active": true,
-      "category": "DeveloperTool",
-      "copyright": "",
+      "category": "Education",
+      "copyright": "2024 set5u",
       "deb": {
         "depends": []
       },
