@@ -52,7 +52,8 @@ export default defineNuxtConfig({
       theme_color: "#055b78",
     },
     manifest: {
-      start_url: "/ykvocl/",
+      //   start_url: "/ykvocl/",
+      start_url: "/",
       background_color: "#222",
       name: "Aji Voca Learn",
       short_name: "AjiVL",
