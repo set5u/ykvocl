@@ -23,6 +23,7 @@
     "@nuxt/devtools": "latest",
     "@plotdb/pug-browser": "^0.0.3",
     "@prettier/plugin-pug": "^3.0.0",
+    "@tauri-apps/cli": "^1.5.11",
     "@tsconfig/strictest": "^2.0.2",
     "@types/diff": "^5.0.7",
     "@types/dompurify": "^3.0.4",
